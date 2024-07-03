@@ -67,6 +67,5 @@ button:hover {
 .caption p {
     margin: 0;
     color: #ffcc00;
-    font-size: 18px; /* Adjust the font size as needed */
-    font-weight: bold; /* Make the caption text bold */
-}
+    font-size: 18px; 
+    font-weight: bold; 
