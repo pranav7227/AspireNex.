@@ -13,7 +13,6 @@ def generate_caption(image_path):
     # Create attention mask
     attention_mask = (pixel_values != tokenizer.pad_token_id).long()
 
-    # Generate caption with attention_mask and max_new_tokens
     output_ids = model.generate(pixel_values, attention_mask=attention_mask, max_new_tokens=20)
     caption = tokenizer.decode(output_ids[0], skip_special_tokens=True)
     return caption
