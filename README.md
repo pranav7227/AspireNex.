@@ -1,4 +1,4 @@
-Pranav Patil (praanavpatil3717@gmail.com)
+Pranav Patil (pranavpatil3717@gmail.com)
 
  Firstly ,Thank you for providing me with an opportunity to exhibit my skills , I hope my efforts please you.
 
