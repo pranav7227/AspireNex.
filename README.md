@@ -1,10 +1,5 @@
 Pranav Patil (pranavpatil3717@gmail.com)
 
- Firstly ,Thank you for providing me with an opportunity to exhibit my skills , I hope my efforts please you.
-
-I have chose the following projects from thr problem statement:
-Image captioning AI
-Tic Tac Toe AI
 
 **Details**
 
